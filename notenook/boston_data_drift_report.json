@@ -1,0 +1,4 @@
+{
+  "metadata": {},
+  "metrics": "[DataDriftPreset(type='evidently:metric_container:DataDriftPreset', include_tests=True, columns=None, embeddings=None, embeddings_drift_method=None, drift_share=0.5, method=None, cat_method=None, num_method=None, text_method=None, per_column_method=None, threshold=None, cat_threshold=None, num_threshold=None, text_threshold=None, per_column_threshold=None)]"
+}
