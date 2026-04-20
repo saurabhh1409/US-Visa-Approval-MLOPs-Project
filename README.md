@@ -1,5 +1,23 @@
 # **End-to-End-US-Visa-Approval-MLOPs-Project**
 
+# Overview
+This project builds a MLOps pipeline to predict US visa approval status using machine learning. It demonstrates the complete lifecycle from data ingestion to model deployment.
+
+# Problem Statement
+
+Manual visa evaluation is:
+
+- Time-consuming
+- Inconsistent
+- Prone to human error
+
+The goal is to build an automated ML system that predicts visa approval based on applicant features such as education, experience and many more.
+
+# Results
+Best Model: XGBoost
+Accuracy:
+
+
 # **Git Command**
 
 git add .
